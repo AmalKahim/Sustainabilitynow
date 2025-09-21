@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Sustainability Now — Nauti. Skeittaa. Säästä.</title>
+  <style>
+    body {
+      margin:0;
+      font-family: Arial, sans-serif;
+      background: #fff7f3;
+      color:#2b2b2b;
+      text-align:center;
+    }
+    header {
+      background:#ff5c93;
+      color:white;
+      padding:20px;
+    }
+    h1 {
+      margin:0;
+      font-size:2.2em;
+      font-family: "Comic Sans MS", cursive;
+    }
+    nav a {
+      margin:0 10px;
+      color:white;
+      text-decoration:none;
+      font-weight:bold;
+    }
+    section {
+      padding:40px 20px;
+      max-width:800px;
+      margin:0 auto;
+    }
+    .milkshake, .arena, .biljardi {
+      background:#ffffffcc;
+      margin:20px 0;
+      padding:20px;
+      border-radius:12px;
+      box-shadow:0 4px 12px rgba(0,0,0,0.1);
+    }
+    footer {
+      background:#eee;
+      padding:20px;
+      margin-top:40px;
+      font-size:14px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sustainability Now</h1>
+    <nav>
+      <a href="#milkshakes">Milkshaket</a>
+      <a href="#arena">Rullaluistelu</a>
+      <a href="#biljardi">Biljardi</a>
+      <a href="#about">Tietoa</a>
+      <a href="#contact">Ota yhteyttä</a>
+    </nav>
+  </header>
+
+  <section id="milkshakes" class="milkshake">
+    <h2>Milkshaket</h2>
+    <p>Mansikka, Suklaa, Vegaani vaihtoehto – kaikki kirsikalla päällä 🍒</p>
+  </section>
+
+  <section id="arena" class="arena">
+    <h2>Rullaluisteluareena</h2>
+    <p>Vuokraus alk. 5 €/30min, 8 €/h. Koot 36–47, suojat sisältyvät.</p>
+    <p>Aukiolo: Ma–Pe 12–22, La–Su 10–22.</p>
+  </section>
+
+  <se
